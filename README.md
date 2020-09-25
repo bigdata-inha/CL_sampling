@@ -68,7 +68,7 @@ Experiment about class imbalance problems inside the CNNs
 </table>
 
 
-2. Model : Vgg11 with batch normalization
+2. Model : ResNet32 for Cifar10, ResNet18 for ImageNet
 
 # Experiment Result
 1. Neuron Membership 
