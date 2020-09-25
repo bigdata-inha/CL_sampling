@@ -27,7 +27,7 @@ Experiment about class imbalance problems inside the CNNs
 </table>
 
 # Dataset / Model
-1. Data : Cifar10 with different imbalance ratio
+1. Data : Cifar100
   <table> 
     <thead> 
      <tr> 
