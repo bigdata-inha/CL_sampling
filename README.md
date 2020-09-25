@@ -1,6 +1,6 @@
 # CL_sampling
 
-# A Study on the Effectiveness of the Class Imbalance of Training Data on Convolutional Networks(CNNs)
+# Simple yet Effective sampling method for Class Incremental Learning
 Experiment about class imbalance problems inside the CNNs
 
 # Prerequistes
@@ -8,7 +8,7 @@ Experiment about class imbalance problems inside the CNNs
 2. package : numpy, os
 
 # Measures Definition
-1. Neuron Membership
+1. Measure for the Easy / Hard
 <table align='center'>
 <tr align='center'>
 </tr>
@@ -16,8 +16,17 @@ Experiment about class imbalance problems inside the CNNs
 
 </tr>
 </table>
-2. Major class actvation - Minor class activation
-3. Class Selectivity
+
+2. Not yet
+<table align='center'>
+<tr align='center'>
+</tr>
+<tr>
+
+</tr>
+</table>
+
+3. Not yet
 <table align='center'>
 <tr align='center'>
 </tr>
