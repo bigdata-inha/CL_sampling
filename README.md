@@ -1,7 +1,7 @@
 # CL_sampling
 
 # Simple yet Effective sampling method for Class Incremental Learning
-Experiment about class imbalance problems inside the CNNs
+Experiment about Idea on continual learning
 
 # Prerequistes
 1. pytorch, python : pytorch 1.0 ↑, python 3.7 ↑
@@ -36,7 +36,7 @@ Experiment about class imbalance problems inside the CNNs
 </table>
 
 # Dataset / Model
-1. Data : Cifar100
+1. Data / Model : Cifar100 / Resnet32
   <table> 
     <thead> 
      <tr> 
@@ -77,7 +77,8 @@ Experiment about class imbalance problems inside the CNNs
 </table>
 
 
-2. Model : ResNet32 for Cifar10, ResNet18 for ImageNet
+2. Data / Model : Imagenet / ResNet18
+
 
 # Experiment Result
 1. Neuron Membership 
