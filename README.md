@@ -81,8 +81,12 @@ Experiment about Idea on continual learning
 
 
 # Experiment Result
-1. Neuron Membership 
+1. Top-1 Acc
+1.1. CIFAR 10 
 
-2. Major class actvation - Minor class activation 
+1.2. Tiny Image Net 
 
-3. Class Selectivity
+2. Forgeetting Rate
+1.1 CIFa
+
+1.2
