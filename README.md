@@ -1,6 +1,6 @@
 # CL_sampling
 
-# Simple yet Effective sampling method for Class Incremental Learning
+# XSampling for Class Incremental Learning
 Experiment about Idea on continual learning
 
 # Prerequistes
