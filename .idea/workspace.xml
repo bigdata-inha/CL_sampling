@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="49abc95d-800a-403b-ad3e-3573604782c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myData/iDataLoader.py" beforeDir="false" afterPath="$PROJECT_DIR$/myData/iDataLoader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainer/evaluator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/trainer_wa.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainer/trainer_wa.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,6 +89,9 @@
       <module name="Imbalanced_CL" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -177,7 +176,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
