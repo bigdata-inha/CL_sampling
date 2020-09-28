@@ -26,14 +26,6 @@ Experiment about Idea on continual learning
 </tr>
 </table>
 
-3. Not yet
-<table align='center'>
-<tr align='center'>
-</tr>
-<tr>
-
-</tr>
-</table>
 
 # Dataset / Model
 1. Data / Model : Cifar100 / Resnet32
