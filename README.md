@@ -82,11 +82,13 @@ Experiment about Idea on continual learning
 
 # Experiment Result
 1. Top-1 Acc
+
   1.1. CIFAR 10 
 
   1.2. Tiny-ImageNet 
 
 2. Forgeetting Rate
-  1.1 CIFAR 10
 
-  1.2 Tiny-ImageNet
+  2.1 CIFAR 10
+
+  2.2 Tiny-ImageNet
