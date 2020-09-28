@@ -48,6 +48,7 @@ class Trainer(trainer_warehouse.GenericTrainer):
 
     def increment_classes(self, mode):
         if mode == "imbal" :
+            #class weight 구하는 부분 수정 필요
             self.class_weight = self.get_class_weight(target=self.cumulative_training_target, outputs=self.cumulative_training_acc, epochs=100)
             self.train_data_iterator.dataset.imbal_update_exemplar(class_weight=self.class_weight)
         elif mode == "forgetting_bal" :
